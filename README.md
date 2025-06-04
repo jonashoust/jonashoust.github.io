@@ -30,7 +30,7 @@
   <!-- Hero -->
   <section class="bg-cover bg-center h-64 md:h-96" style="background-image: url('img/IMG_7001.jpeg');">
     <div class="bg-black bg-opacity-60 w-full h-full flex items-center justify-center">
-      <h2 class="text-white text-4xl md:text-6xl font-bold">Estilo e excelência é nosso ponto forte</h2>
+      <h2 class="text-white text-4xl md:text-6xl font-bold">Estilo, excelência e satisfação do cliente é o nosso objetivo</h2>
     </div>
   </section>
 
